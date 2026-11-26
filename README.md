@@ -3,10 +3,10 @@
 **Computer Science student from Poland, looking for a software development internship.**
 I build full-stack web apps with **Java / Spring Boot**, **Python / Django** and **React / TypeScript**, and I'm learning native iOS development in **SwiftUI**.
 
-<!-- TODO: dodaj linię z uczelnią, np.: - 🎓 Studying Computer Science at **[University]**, year [X] -->
-- 🚀 Built and shipped a **production website for a local business**: [gabaryt-bialystok.pl](https://gabaryt-bialystok.pl/)
-- 🤝 Used to working in teams: Git workflow, code reviews, documentation, UML
-- 🔎 Open to **backend / full-stack / iOS internships** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
+- Studying Computer Science at Politechnika Białostocka, year 3
+-  Built and shipped a **production website for a local business**: [gabaryt-bialystok.pl](https://gabaryt-bialystok.pl/)
+-  Used to working in teams: Git workflow, code reviews, documentation, UML
+-  Open to **backend / full-stack / iOS internships** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
 
 ---
 
