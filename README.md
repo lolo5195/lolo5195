@@ -3,10 +3,10 @@
 **Computer Science student from Poland, looking for a software development internship.**
 I build full-stack web apps with **Java / Spring Boot**, **Python / Django** and **React / TypeScript**, and I'm learning native iOS development in **SwiftUI**.
 
-- Studying Computer Science at Politechnika Białostocka, year 3
--  Built and shipped a **production website for a local business**: [gabaryt-bialystok.pl](https://gabaryt-bialystok.pl/)
--  Used to working in teams: Git workflow, code reviews, documentation, UML
--  Open to **backend / full-stack / iOS internships** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
+<!-- TODO: dodaj linię z uczelnią, np.: - 🎓 Studying Computer Science at **[University]**, year [X] -->
+- 🚀 Built and shipped a **production website for a local business**: [gabaryt-bialystok.pl](https://gabaryt-bialystok.pl/)
+- 🤝 Used to working in teams: Git workflow, code reviews, documentation, UML
+- 🔎 Open to **backend / full-stack / iOS internships** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
 
 ---
 
@@ -69,10 +69,11 @@ iOS calorie tracker: a free alternative to paywalled diet apps.
 - Meal diary with daily calorie and macro goals
 - Planned: barcode scanner, Apple Health sync, weekly/monthly statistics
 
-<!-- TODO: po upublicznieniu: [Drabinka Drift](https://github.com/lolo5195/Drabinka_drift) -->
-### 🏁 Drabinka Drift
-Tool for drift competition organizers: enter run results, get live standings and a tournament bracket (up to Top 32) rendered as graphics ready for a stream overlay.
-`Python` `image generation` `CLI`
+### 🏁 [Drift Bracket](https://github.com/lolo5195/drift-bracket)
+App for a drift event organizer: enter qualification runs, get the standings and a TOP32 knockout bracket, exported as transparent PNG overlays for live streams.
+`Python` `NiceGUI` `Pillow` `pytest`
+- Pure-Python engine separated from the UI, covered by 131 tests
+- Bracket graphics rendered programmatically (not screenshots), up to 3840 px wide
 
 ### 🚢 [Battleship](https://github.com/lolo5195/Gra-w-statki-Battleship-)
 Console Battleship game in pure Java, designed around five design patterns: **Singleton, Composite, Command, Observer, Builder**, documented with UML class diagrams.
