@@ -82,9 +82,7 @@ Console Battleship game in pure Java, designed around five design patterns: **Si
 
 ## 📫 Contact
 
-<!-- TODO: odkomentuj i wpisz swoje dane:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TWOJ-PROFIL/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TWOJ-PROFIL/](https://www.linkedin.com/in/mateusz-%C5%BCmiejko-5bbbb3339/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzmiejko5195@gmail.com)
 
 
