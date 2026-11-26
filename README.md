@@ -7,7 +7,7 @@ Also into **Linux administration** (Red Hat RH124/RH134) and **application secur
 - Studying Computer Science at Politechnika Białostocka, year 3
 -  Built and shipped a **production website for a local business**: [gabaryt-bialystok.pl](https://gabaryt-bialystok.pl/)
 -  Used to working in teams: Git workflow, code reviews, documentation, UML
--  Open to **backend / full-stack internships** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
+-  Open to **backend / full-stack internships / application security** <!-- TODO: od kiedy, np. "from July 2027", stacjonarnie / zdalnie -->
 
 ---
 
