@@ -43,6 +43,7 @@ Web application for submitting and managing citizen reports, built in a team of 
 `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Thymeleaf` `Oracle DB / H2`
 - Registration, login and role-based access (user / admin panel)
 - MVC views plus a REST API with centralized error handling and validation
+- BCrypt passwords, ownership checks, no secrets in the repo; access control covered by integration tests
 
 <!-- TODO: po upublicznieniu: [Koncept-Bud](https://github.com/lolo5195/Koncept-Bud) -->
 ### 🏗️ Koncept-Bud
@@ -65,7 +66,7 @@ App for a drift event organizer: enter qualification runs, get the standings and
 - Bracket graphics rendered programmatically (not screenshots), up to 3840 px wide
 
 ### 🚢 [Battleship](https://github.com/lolo5195/Gra-w-statki-Battleship-)
-Console Battleship game in pure Java, designed around five design patterns: **Singleton, Composite, Command, Observer, Builder**, documented with UML class diagrams.
+Console Battleship game in pure Java, designed around five design patterns: **Singleton, Composite, Command, Observer, Builder**, documented with UML class diagrams. Team of 5; my part: the Composite pattern (ship model, hit and sink logic).
 `Java` `OOP` `Design patterns`
 
 <details>
